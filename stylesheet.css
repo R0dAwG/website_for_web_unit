@@ -1,6 +1,9 @@
 
 
 
+
+
+
 .navbar ul{
    background-color:  rgb(48, 47, 47);
    text-align: center;
@@ -112,4 +115,25 @@ body {
     padding: 8px;
     
     
+}
+
+.colony{
+    color: aliceblue;
+    text-align: center;
+    font-size: x-large;
+    background-color: rgb(48, 47, 47);
+    float: right;
+    
+    
+    color: aliceblue;
+    border-radius: 12px;
+    padding: 8px;
+    margin-left: 45%;
+    
+
+}
+
+.colonyimage {
+    text-align: left;
+    margin-bottom: 30%;
 }
