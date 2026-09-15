@@ -4,6 +4,12 @@
 
 
 
+
+
+
+
+
+
 .navbar ul{
    background-color:  rgb(48, 47, 47);
    text-align: center;
@@ -55,28 +61,32 @@ ul li a {
 .titleimage {
     text-align: center;
     border-radius: 12px;
+    height: auto;
+    display: block;
+    
+    
     
     
 }
 
-img {
-    width:750px;
-    border-radius: 12px;
-     
-     
-    
+.games-controller {
+    padding-top: 3%;
+    height: auto;
+    display: block;
 }
 
 
 .maintext {
-    text-align: left;
+    text-align: center;
     font-size: large;
     background-color: rgb(48, 47, 47);
-    margin-right: 50%;
+    margin-left: 10%;
+    margin-right: 10%;
     color: aliceblue;
     border-radius: 12px;
     padding: 8px;
-    margin-left: 10px;
+    
+    
     
 
     
@@ -85,23 +95,20 @@ img {
     
 }
 
-.games-controller{
-    text-align: right;
-    display:flex;
-    padding-left: 55%;
-    margin-top: -20.5%;
-    
-     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-    
-    border-radius: 8px; 
-    
-    
 
-}
 
 body {
     background-color: black;
 }
+
+
+
+
+
+
+
+
+
 
 .Heading-text{
     color: aliceblue;
@@ -113,9 +120,25 @@ body {
     color: aliceblue;
     border-radius: 12px;
     padding: 8px;
+    margin-top: 4%;
     
     
 }
+
+.colonyimage {
+    text-align: center;
+    height: auto;
+    display: block;
+   padding-top: 4%;
+   padding-bottom: 1%;
+   
+    
+    
+}
+
+
+
+
 
 .colony{
     color: aliceblue;
@@ -123,17 +146,86 @@ body {
     font-size: x-large;
     background-color: rgb(48, 47, 47);
     float: right;
-    
-    
     color: aliceblue;
     border-radius: 12px;
     padding: 8px;
-    margin-left: 45%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom:4%;
+    
+    
     
 
 }
 
-.colonyimage {
-    text-align: left;
-    margin-bottom: 30%;
+.game1img {
+    text-align: center;
+    height: auto;
+    display: block;
+   padding-top: 4%;
+   padding-bottom: 1%;
+   margin-top: 5%;
+   
+    
+    
+}
+
+.game1{
+    color: aliceblue;
+    text-align: center;
+    font-size: x-large;
+    background-color: rgb(48, 47, 47);
+    float: right;
+    color: aliceblue;
+    border-radius: 12px;
+    padding: 8px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom:4%;
+    
+    
+    
+
+}
+
+.game2img {
+    text-align: center;
+    height: auto;
+    display: block;
+   padding-top: 4%;
+   padding-bottom: 1%;
+   margin-top: 5%;
+   
+    
+    
+}
+
+.game2{
+    color: aliceblue;
+    text-align: center;
+    font-size: x-large;
+    background-color: rgb(48, 47, 47);
+    float: right;
+    color: aliceblue;
+    border-radius: 12px;
+    padding: 8px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom:4%;
+    
+    
+    
+
+}
+
+
+.contact {
+    text-align: center;
+    font-size: xx-large;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    margin: 10px;
+    background-color: rgb(48, 47, 47);
+    border-radius: 12px;
+    margin-top: 8%;
 }
