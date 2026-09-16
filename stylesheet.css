@@ -61,7 +61,7 @@ ul li a {
 @media (max-width: 768px) {
 .titleimage {
     text-align: center;
-    border-radius: 12px;
+    
     height: auto;
     display: block;
     float: center;
