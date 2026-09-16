@@ -13,7 +13,6 @@
 .navbar ul{
    background-color:  rgb(48, 47, 47);
    text-align: center;
-   color: rgb(0, 0, 0);
    padding: 25px;
    margin-top: 1px;
    border-radius: 12px;
@@ -22,7 +21,6 @@
 
 
 ul li{
-        color:rgb(9, 30, 226);
     display: inline-block;
     position: relative;
     font-size: large;
@@ -238,8 +236,8 @@ body {
         font-size: medium;
     }
     .Heading-text {
-        margin-left: 2%;
-        margin-right: 2%;
+        margin-left: 0;
+        margin-right: 0;
     }
 
 }
