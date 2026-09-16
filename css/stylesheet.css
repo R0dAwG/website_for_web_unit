@@ -237,5 +237,9 @@ body {
     .title, .contact, .maintext, .colony, .game1, .game2, .Heading-text {
         font-size: medium;
     }
+    .Heading-text {
+        margin-left: 2%;
+        margin-right: 2%;
+    }
 
 }
