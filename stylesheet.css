@@ -58,7 +58,7 @@ ul li a {
     border-radius: 12px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 600px) {
 .titleimage {
     text-align: center;
     
