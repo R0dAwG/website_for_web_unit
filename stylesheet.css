@@ -50,7 +50,7 @@ ul li a {
 
 .title {
     text-align: center;
-    font-size: x-large;
+    font-size: large;
     padding: 10%;
     color: rgb(255, 255, 255);
     margin: 10px;
@@ -70,11 +70,6 @@ ul li a {
 }    
 }
 
-.games-controller {
-    padding-top: 3%;
-    height: auto;
-    display: block;
-}
 
 
 .maintext {
