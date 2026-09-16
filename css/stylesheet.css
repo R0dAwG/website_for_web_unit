@@ -234,4 +234,8 @@ body {
         width: 100%;
     }
 
+    .title, .contact, .maintext, .colony, .game1, .game2 {
+        font-size: medium;
+    }
+
 }
